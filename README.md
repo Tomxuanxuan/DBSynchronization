@@ -10,11 +10,16 @@ python main.py
 
 ## 初始参数设置说明
 main.py
+
 db_params   # 分库连接参数
+
 main_db_params  # 主库连接参数
+
 SCHEDULE_MINUTES # 定时执行时间 单位分钟
 
 table.py
+
 tables  
+
 需要同步的表及字段数据
 
